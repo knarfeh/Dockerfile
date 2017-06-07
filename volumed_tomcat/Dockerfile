@@ -1,0 +1,3 @@
+FROM tomcat
+
+VOLUME /data
