@@ -1,3 +1,3 @@
 FROM tomcat
 
-VOLUME /data
+VOLUME /usr/local/tomcat/logs/
